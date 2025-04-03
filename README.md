@@ -1,6 +1,7 @@
 # Desafio técnico - Desenvolvedor Backend CasalarShop
 
 Seja bem-vindo!
+
 Esse repositório descreve o desafio técnico do processo seletivo de Desenvolvedor Backend da Casalar Shop. Abaixo você encontrará os requisitos do desafio.
 Clone esse repositório, crie uma branch para a sua implementação e submeta o seu Pull Request para avaliação (Pull Request da sua branch para a branch `main`). Não é permitido enviar commits diretamente para a branch `main`.
 
