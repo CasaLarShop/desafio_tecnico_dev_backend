@@ -17,6 +17,6 @@ Clone esse repositório, crie uma branch para a sua implementação e submeta o 
   - Atenção, pois é um parâmetro não obrigatório.
 
 ## Observações:
-    - Frameworks, biblioteca, padrões de projeto e arquitetura ficam a critério do dev, o único requisito tecnológico é que o projeto seja feito em PHP;
-    - Tudo o que não estiver na descrição, fica a critério do dev;
-    - A API OMDB necessita de uma API Key para autenticação, que pode ser criada através do link da omdb, de forma gratuita;
+  - Frameworks, bibliotecas, padrões de projeto/código e arquitetura ficam a critério do dev, o único requisito tecnológico é que o projeto seja feito em PHP;
+  - Tudo o que não estiver na descrição, fica a critério do dev;
+  - A API OMDB necessita de uma API Key para autenticação, que pode ser criada através do link da omdb, de forma gratuita;
