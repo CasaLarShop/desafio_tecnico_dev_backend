@@ -1,0 +1,9 @@
+CREATE TABLE series (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    titulo VARCHAR(255) NOT NULL,
+    ano VARCHAR(10),
+    nota_imdb FLOAT,
+    descricao TEXT,
+    created_at DATETIME,
+    updated_at DATETIME
+);
